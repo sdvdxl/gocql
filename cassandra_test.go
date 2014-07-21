@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"flag"
 	"reflect"
-	"speter.net/go/exp/math/dec/inf"
+	"github.com/sdvdxl/go-decimal-inf/go/exp/math/dec/inf"
 	"strconv"
 	"strings"
 	"sync"

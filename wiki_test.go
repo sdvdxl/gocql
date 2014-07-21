@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 	"sort"
-	"speter.net/go/exp/math/dec/inf"
+	"github.com/sdvdxl/go-decimal-inf/go/exp/math/dec/inf"
 	"testing"
 	"time"
 )
