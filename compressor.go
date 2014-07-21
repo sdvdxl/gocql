@@ -1,7 +1,7 @@
 package gocql
 
 import (
-	"github.com/sdvdxl/snappy-go"
+	"github.com/sdvdxl/snappy-go/snappy"
 )
 
 
